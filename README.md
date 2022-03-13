@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @linguaphile, retired IT project manager 30 years experience at Williams College
 - 👀 I’m interested in ... Creating infrastructure for public access to museum CC0 images and metadata, SwiftUI cross platform development
-- 🌱 I’m currently learning ... how to get a cross platform app built with SwiftUI published on the App Store
 - 💞️ I’m looking to collaborate on ... Museum CC0 projects
 - 📫 How to reach me ... jallison@williams.edu
 
