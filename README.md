@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linguaphile, retired IT project manager 30 years experience at Williams College
-- 👀 I’m interested in ... Creating infrastructure for public access to museum CC0 images and metadata, SwiftUI cross platform development
-- 💞️ I’m looking to collaborate on ... Museum CC0 projects
+- 👀 I’m interested in ... Creating infrastructure for public access to museum CC0 images and metadata, AI applications for education
+- 💞️ I’m looking to collaborate on ... Museum CC0 projects, AI, 
 - 📫 How to reach me ... jallison@williams.edu
 
 <!---
